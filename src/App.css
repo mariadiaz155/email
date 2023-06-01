@@ -303,7 +303,7 @@ button {
 
   .outlook, .office, .mail {
     width: 100%;
-    top: 50px;
+    top: -10px;
     font-size: 14px;
     text-align: center;
   }
