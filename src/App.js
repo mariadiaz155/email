@@ -52,7 +52,7 @@ function App() {
 
           <Button className="office" handleMail={handleOffice} img={off} text="Sign in with MSOffice365" />
 
-          <Button className="mail" handleMail={handleMail} img={at} text="Sign in with other email" />
+          <Button className="mail" handleMail={handleMail} img={inbox} text="Sign in with other email" />
 
           
         </div>
