@@ -35,6 +35,12 @@ img {
   justify-content: center;
 }
 
+@media only screen and (max-width: 600px) {
+  .card {
+    width: 100%;
+  }
+}
+
 .icon {
   width: 100px;
   height: auto;
