@@ -38,11 +38,12 @@ img {
 @media only screen and (max-width: 600px) {
   .card {
     width: 90%;
+    padding: 5px;
   }
 
   .btn {
     width: 90%;
-    bottom: 50px;
+    bottom: 10px;
   }
   
 }
