@@ -8,7 +8,7 @@
 
 .blur {
   width: 100%;
-  height: 100%;
+  height: 100vh;
   background: rgba(255, 255, 255, 0.2);
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
@@ -43,6 +43,7 @@ img {
 
   p {
     font-size: 14px;
+    text-align: center;
     margin: 10px;
   }
 
@@ -52,13 +53,14 @@ img {
   }
 
   button {
-    width: 95%;
+    width: 100%;
     font-size: 16px;
   }
 
-  /* .outlook, .office, .mail {
-
-  } */
+  .outlook, .office, .mail {
+    width: 100%;
+    top: 50px;
+  }
   
 }
 
