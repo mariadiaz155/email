@@ -275,6 +275,7 @@ button {
 
 .form form .form-btn .login {
   background: rgb(78, 187, 187);
+  padding: 2px;
 }
 
 .copyrite {
