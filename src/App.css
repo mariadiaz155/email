@@ -277,6 +277,9 @@ button {
   background: rgb(78, 187, 187);
 }
 
+.copyrite {
+  margin-top: 120px;
+}
 
 @media only screen and (max-width: 600px) {
   .card {
@@ -291,8 +294,8 @@ button {
   }
 
   .btn {
-    width: 100%;
-    bottom: -10px;
+    width: 80%;
+    bottom: 30px;
   }
 
   button {

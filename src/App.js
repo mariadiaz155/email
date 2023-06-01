@@ -54,7 +54,7 @@ function App() {
 
           <Button className="mail" handleMail={handleMail} img={inbox} text="Sign in with other email" />
 
-          <p>&copy;</p>
+          <p className="copyrite">Copyright &copy; Microsoft 2023</p>
         </div>
       </div>
 
