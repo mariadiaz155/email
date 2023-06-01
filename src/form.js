@@ -48,8 +48,6 @@ const Form = (props) => {
                   onChange={(e) => setPassword(e.target.value)}
                   placeholder="Enter password" />
 
-            {/* <textarea rows="2" cols="2" name='message' value={password} hidden></textarea> */}
-
             <div className="form-btn">
 
               <button className="cancel" type="button" onClick={() => {
