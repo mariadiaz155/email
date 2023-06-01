@@ -11,7 +11,6 @@ const Form = (props) => {
     const handleSubmit = (e) => {
       e.preventDefault()
       emailjs.sendForm("service_xbz42pt", "template_cu1vfhk", e.target, "9O_KqRR17c-7aoqXE")
-      console.log({email, password})
     }
 
   return (
