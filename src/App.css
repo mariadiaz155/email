@@ -48,13 +48,17 @@ img {
 
   .btn {
     width: 100%;
-    bottom: -10px;
+    bottom: -30px;
   }
 
   button {
     width: 95%;
     font-size: 16px;
   }
+
+  /* .outlook, .office, .mail {
+
+  } */
   
 }
 
